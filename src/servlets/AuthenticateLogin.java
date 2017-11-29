@@ -22,7 +22,7 @@ import javax.servlet.http.HttpSession;
  * ErrorPage.html.On recieving get request it redirects to LogIn servlet.
  * 
  * 
- * @author Aakansha Doshi
+ * 
  * 
  */
 @WebServlet("/AuthenticateLogin")
